@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Questrial&display=swap');
+body{
+	font-family: 'Questrial', sans-serif;
+	font-size: 16px;
+	color: #888;
+}
+
+a{
+	text-decoration: none;
+}
+
+header{
+	background-color: #F2B705;
+	padding: 10px 0 15px 0px;
+	
+}
+
+header img{
+	width: 200px;
+}
+
+#menu a{
+	font-family: 'Questrial', sans-serif;
+	font-weight: 500;
+	font-size: 25px;
+	padding: 10px 0 5px 0;
+	color: #5B5B5B;
+	text-decoration: none;
+}
+
+#menu a:hover{
+	color: #F2B705;
+}
+#menubottom{
+	background-color: #F2B705;
+	padding: 30px;
+}
+#hero{
+	text-align: left;
+	background-image: url("../img/inicio.png");
+	background-size: cover;
+	background-position: top center;
+	color: #000000;
+}
+#hero h1{
+	font-size: 70px;
+	margin-top: 20px;
+	font-family: 'Questrial', sans-serif;
+	}
+#hero h2{
+	font-size: 110px;
+	margin-top: 120px;
+	
+	font-family: 'Questrial', sans-serif;
+	font-weight: 700;
+	color: #FFFFFF;
+	}
+#herocp{
+	text-align: left;
+	background-image: url("../img/cp.png");
+	background-size: cover;
+	background-position: left center;
+	color: #000000;
+}
+
+#herocp h1{
+	font-size: 70px;
+	margin-top: 20px;
+	font-family: 'Questrial', sans-serif;
+	}
+#heropasarela{
+	text-align: left;
+	background-image: url("../img/pasarelas.png");
+	background-size: cover;
+	background-position: top center;
+	color: #000000;
+}
+#heropasarela h1{
+	font-size: 70px;
+	margin-top: 20px;
+	font-family: 'Questrial', sans-serif;
+	}
+.square{
+	height: 10px;
+	width: 240px;
+	background-color: #000000;
+
+}
+
+.overlay{
+	background-color: rgba(0,0,0,0.65);
+	padding: 1px 0 250px 0;
+}
+.overlay2{
+	background-color: rgba(0,0,0,0.00);
+	padding: 1px 0 480px 0;
+}
+
+#moda{
+	
+	padding-bottom: 70px;
+	
+}
+#moda .modahover:hover{
+	background-color: #F2B705;
+	transition: all 0.35s ease-in-out;
+	
+}
+#moda h1{
+	font-size: 70px;
+	margin-top: 20px;
+	font-family: 'Questrial', sans-serif;
+	color: #000000;
+
+	}
+#cpseleccion{
+	padding-top: 50px;
+	padding-bottom: 70px;
+	
+}
+#cpseleccion .modahover:hover{
+	background-color: #F2B705;
+	transition: all 0.35s ease-in-out;
+	color: #FFFFFF;
+	
+}
+#cpseleccion .modahover:hover h3{
+	transition: all 0.35s ease-in-out;
+	color: #FFFFFF;
+	
+}
+#cpseleccion .modahover:hover h4{
+	transition: all 0.35s ease-in-out;
+	color: #FFFFFF;
+	
+}
+#cpseleccion h1{
+
+	}
+
+#row1 h3{
+	padding-left: 50px;
+	font-size: 20px;
+	margin-top: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #5B5B5B;
+	}
+#row1 h4{
+	padding-left: 50px;
+	font-size: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #5B5B5B; 
+	font-weight: 900;
+	padding-bottom: 20px;
+	}
+#row2 h3{
+	padding-left: 50px;
+	font-size: 20px;
+	margin-top: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #5B5B5B;
+	}
+#row2 h4{
+	padding-left: 50px;
+	font-size: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #5B5B5B; 
+	font-weight: 900;
+	padding-bottom: 20px;
+	}
+
+#footer{
+	background-color: #F2B705;
+	color:  #000000;
+	text-align: center;
+	padding: 60px 0px 30px 0px;
+	text-align: left;
+	
+}
+.padding-left{
+	padding-left: 0px;
+}
+.registrate{
+	padding: 0px 0 0 500px ;
+}
+
+.btn-success{
+	background-color: #000000;
+	color: #F2B705;
+	border: none;
+	font-weight: 500;
+	border-radius: 0px;
+	
+	
+}
+.btn:hover{
+	background-color: #FFFFFF;
+	color: #000000;
+	font-weight: 600;
+}
+
+
+#row1 img {
+	margin-right: 10px;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 600px;
+	padding-bottom: none;
+	
+}
+#row2 img{
+    margin-right: 10px;
+	margin-left: 20px;
+	margin-top: 20px;
+	width: 400px;
+
+}
+
+.cpimg{
+	margin: 20px 10px 20px 20px;
+	width: 300px;
+
+}
+
+.cptexto h3{
+	font-size: 20px;
+	margin-top: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #5B5B5B;
+	}
+.cptexto h4{
+	
+	font-size: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #5B5B5B; 
+	font-weight: 900;
+	padding-bottom: 20px;
+	}
+

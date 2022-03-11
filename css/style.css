@@ -37,7 +37,7 @@ header img{
 }
 #hero{
 	text-align: left;
-	background-image: url("../img/inicio.png");
+	background-image: url(../img/inicio.png);
 	background-size: cover;
 	background-position: top center;
 	color: #000000;
@@ -79,12 +79,21 @@ header img{
 	font-size: 70px;
 	margin-top: 20px;
 	font-family: 'Questrial', sans-serif;
-	}
+}
+
 .square{
 	height: 10px;
 	width: 240px;
 	background-color: #000000;
 
+}
+
+#heroho{
+	text-align: left;
+	background-image: url("../img/horoscopofondo.jpg");
+	background-size: cover;
+	background-position: top center;
+	color: #000000;
 }
 
 .overlay{
@@ -237,3 +246,119 @@ header img{
 	padding-bottom: 20px;
 	}
 
+#form-registro {
+    width: 700px;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 30px 40px 100px 40px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 40px;
+    box-shadow: 7px 7px 40px #000000;
+    border-right: #F2B705 solid;
+    border-right-width: 180px; 
+    
+}
+
+.btn-registrarse{
+	background-color: #F2B705;
+	color: #ffffff;
+	border: none;
+	font-weight: 500;
+    margin: 20px 0px 0px 300px;
+    border-radius: 20px;
+    
+}
+
+#registrot{
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 80px;
+
+}
+
+.controles{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+}
+
+.registro-texto{
+	font-size: 15px;
+	margin-top: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #F2B705;
+	}
+
+#form-registro {
+    width: 700px;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 30px 40px 100px 40px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 40px;
+    box-shadow: 7px 7px 40px #000000;
+    border-right: #F2B705 solid;
+    border-right-width: 180px; 
+    
+}
+
+.btn-registrarse{
+	background-color: #F2B705;
+	color: #ffffff;
+	border: none;
+	font-weight: 500;
+    margin: 20px 0px 0px 300px;
+    border-radius: 20px;
+    
+}
+
+#registrot{
+    color: #000000;
+    font-size: 45px;
+    font-weight: 700;
+    margin-bottom: 80px;
+
+}
+
+.controles{
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 16px;
+}
+
+.registro-texto{
+	font-size: 15px;
+	margin-top: 15px;
+	font-family: 'Questrial', sans-serif;
+	color: #F2B705;
+	}
+
+.textregistro{
+    text-align: center;
+    color: #000000;
+}
+
+.rfinal{
+    text-align: center;
+    color: #000000;
+    padding: 0px;
+}
+
+#form-registrado {
+    width: 700px;
+    color: #000000;
+    background-color: #ffffff;
+    padding: 50px 40px 50px 40px;
+    margin: auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border-radius: 40px;
+    box-shadow: 7px 7px 40px #000000;
+    border-right: #F2B705 solid;
+    border-right-width: 180px;
+}

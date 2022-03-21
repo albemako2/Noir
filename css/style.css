@@ -57,7 +57,7 @@ header img{
 	}
 #herocp{
 	text-align: left;
-	background-image: url("../img/cp.png");
+	background-image: url("../img/Lifestyle_portada.jpg");
 	background-size: cover;
 	background-position: left center;
 	color: #000000;
@@ -361,4 +361,49 @@ header img{
     box-shadow: 7px 7px 40px #000000;
     border-right: #F2B705 solid;
     border-right-width: 180px;
+}
+
+
+#heromo{
+	text-align: left;
+	background-image: url("../img/principalmoda.webp");
+	background-size: cover;
+	background-position: left center;
+	color: #000000;
+}
+
+.moseleccion{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	background-color: rgba(253,228,65,1.00);
+	
+}
+
+.moseleccion img{
+	font-size: 45px;
+	color: #999;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-left: 30px;
+}
+#heroho{
+	text-align: left;
+	background-image: url("../img/horoscopofondo.jpg");
+	background-size: cover;
+	background-position: left center;
+	color: #000000;
+}
+
+.hoseleccion{
+	padding-top: 20px;
+	padding-bottom: 10px;
+	
+}
+
+.hoseleccion img{
+	font-size: 45px;
+	color: #999;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-left: 30px;
 }
